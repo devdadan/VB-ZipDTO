@@ -1,0 +1,17 @@
+D:\PROGRAM VB\DS-Projek\ZipDTO\bin\Debug\ZipDTO.exe
+D:\PROGRAM VB\DS-Projek\ZipDTO\bin\Debug\ZipDTO.pdb
+D:\PROGRAM VB\DS-Projek\ZipDTO\bin\Debug\ZipDTO.xml
+D:\PROGRAM VB\DS-Projek\ZipDTO\bin\Debug\DevComponents.DotNetBar2.dll
+D:\PROGRAM VB\DS-Projek\ZipDTO\bin\Debug\Newtonsoft.Json.dll
+D:\PROGRAM VB\DS-Projek\ZipDTO\bin\Debug\ZipForge.dll
+D:\PROGRAM VB\DS-Projek\ZipDTO\bin\Debug\DevComponents.DotNetBar2.xml
+D:\PROGRAM VB\DS-Projek\ZipDTO\bin\Debug\Newtonsoft.Json.xml
+D:\PROGRAM VB\DS-Projek\ZipDTO\obj\Debug\ZipDTO.vbproj.AssemblyReference.cache
+D:\PROGRAM VB\DS-Projek\ZipDTO\obj\Debug\ZipDTO.Form1.resources
+D:\PROGRAM VB\DS-Projek\ZipDTO\obj\Debug\ZipDTO.Resources.resources
+D:\PROGRAM VB\DS-Projek\ZipDTO\obj\Debug\ZipDTO.vbproj.GenerateResource.cache
+D:\PROGRAM VB\DS-Projek\ZipDTO\obj\Debug\ZipDTO.vbproj.CoreCompileInputs.cache
+D:\PROGRAM VB\DS-Projek\ZipDTO\obj\Debug\ZipDTO.vbproj.CopyComplete
+D:\PROGRAM VB\DS-Projek\ZipDTO\obj\Debug\ZipDTO.exe
+D:\PROGRAM VB\DS-Projek\ZipDTO\obj\Debug\ZipDTO.xml
+D:\PROGRAM VB\DS-Projek\ZipDTO\obj\Debug\ZipDTO.pdb
